@@ -9,7 +9,6 @@ TODO
 #### C Version
 
 C code is available in `c_version/`.  A `makefile` is provided that specifies how to build the various parts of the project.  You can build the demo using:
-
 `make kaprekarDemo`
 
 and then run it from the command line using
